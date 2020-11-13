@@ -1,0 +1,21 @@
+#centralwidget{
+    border-image:url("images/MainBackground.jpg")
+}
+#pushButton{
+    border-image:url("images/GreedySnake.jpg")
+}
+#pushButton_2{
+    border-image:url("images/AircraftWar.jpeg")
+}
+#pushButton_3{
+    border-image:url("images/Pacman.jpg")
+}
+#pushButton_4{
+    border-image:url("images/Exit.png")
+}
+#pushButton_4:hover{
+    border-image: url("images/Exit1.png") transparent no-repeat;
+}
+#pushButton_4:pressed{
+    border-image: url("images/Exit2.png") transparent no-repeat;
+}

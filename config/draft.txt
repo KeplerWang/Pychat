@@ -1,0 +1,14 @@
+MainForm.setFixedSize(MainForm.width(), MainForm.height())
+
+        MainForm.setEnabled(True)
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap("image/图标.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        MainForm.setWindowIcon(icon)
+
+
+
+
+
+
+
+  item.setSizeHint(QSize(0,60))

@@ -1,0 +1,49 @@
+#loginWindow{
+    border-image: url("images/background.png")
+
+}
+
+QLineEdit#userLineEdit{
+    background: transparent;
+    height: 35px;
+    line-height: 35px;
+    font-family: "Arial";
+    font-size: 20px;
+    border: 1px solid transparent;
+    border-bottom: 1px solid #9f9f9f
+}
+
+QLineEdit#userLineEdit:hover{
+    border-bottom: 1px solid #84d3fc
+}
+
+QLineEdit#pwdLineEdit{
+    background: transparent;
+    height: 35px;
+    line-height: 35px;
+    font-family: "Arial";
+    font-size: 16px;
+    border: 1px solid transparent;
+    border-bottom: 1px solid #9f9f9f
+}
+QLineEdit#pwdLineEdit:hover{
+    border-bottom: 1px solid #84d3fc
+}
+
+QCheckBox{
+    font-family: "Arial";
+    font-size: 18px;
+}
+QPushButton#loginButton{
+    background-color: #64caff;
+    border-radius: 8px;
+    border:1px solid transparent;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff
+}
+
+QPushButton#loginButton:hover{
+    background-color: #84d3fc
+}

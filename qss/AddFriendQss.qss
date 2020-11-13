@@ -1,0 +1,25 @@
+
+#IDEdit{
+    background: transparent;
+    height: 35px;
+    line-height: 35px;
+    border: 1px solid transparent;
+    border-bottom: 1px solid #a0a0a0
+}
+#IDEdit:hover{
+    border-bottom: 1px solid #64caff
+}
+#AddFriendForm{
+    background: url("images/mainwindowbackground.jpg");
+}
+#pushButton:pressed{
+    background-color: #66a3ff
+}
+#pushButton{
+    background-color: #64caff;
+    border-radius: 8px;
+    border:1px solid transparent;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: bold;
+}

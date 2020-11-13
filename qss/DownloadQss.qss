@@ -1,0 +1,62 @@
+QWidget#downloadWindow {
+    border-image: url("images/loadbackgr.png") no-repeat
+}
+QLineEdit#fileNameEdit{
+    background: transparent;
+    height: 35px;
+    line-height: 35px;
+    font-size: 20px;
+    font-family: "Arial";
+    border: 1px solid transparent;
+    border-bottom: 1px solid #9f9f9f
+}
+
+QLineEdit#fileNameEdit:hover{
+    border-bottom: 1px solid #84d3fc
+}
+
+QLineEdit#filePlaceEdit{
+    background: transparent;
+    height: 35px;
+    line-height: 35px;
+    font-size: 20px;
+    font-family: "Arial";
+    border: 1px solid transparent;
+    border-bottom: 1px solid #9f9f9f
+}
+QLineEdit#filePlaceEdit:hover{
+    border-bottom: 1px solid #84d3fc
+}
+QPushButton#flashButton:hover{
+    background-color: #84d3fc
+}
+QPushButton#flashButton{
+    background-color: #64caff;
+    border-radius: 8px;
+    border:1px solid transparent;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff
+}
+QPushButton#comfirmButton:hover{
+    background-color: #84d3fc
+}
+QPushButton#comfirmButton{
+    background-color: #64caff;
+    border-radius: 8px;
+    border:1px solid transparent;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff
+}
+#listWidget::Item{
+    width:260px;
+    height:60px;
+}
+#listWidget{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}

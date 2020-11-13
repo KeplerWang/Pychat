@@ -1,0 +1,109 @@
+#registerWindow{
+    border-image: url("images/registerbackground.jpg");
+    background-repeat: no-repeat;
+}
+
+#genderLabel{
+ border-image:url("images/gender.png");
+
+}
+#idLabel{
+ border-image:url("images/idInput.png");
+
+}
+#nickNameLabel{
+ border-image:url("images/user.png");
+
+}
+#pwdLabel{
+ border-image:url("images/pwd.png");
+
+}
+#resureLabel{
+ border-image:url("images/pwd.png");
+
+}
+#emailLabel{
+ border-image:url("images/email.png");
+
+}
+#vcLabel{
+ border-image:url("images/vccode.png");
+ border-width: 2px;
+}
+
+#resureLabel{
+    font-family: "Arial";
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: dashed;
+    border-width: 2px;
+}
+QPushButton#cvPushButton{
+    border-radius: 6px;
+    border:1px solid;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: "Arial";
+    color: #000000;
+    background-color: #f8f8f8
+}
+
+QPushButton#surePushButton{
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    border:1 solid;
+    font-size: 17px;
+    font-weight: normal;
+    font-family: "Arial";
+    color: #000000
+}
+QPushButton#canclePushButton{
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    border:1 solid;
+    font-size: 17px;
+    font-weight: normal;
+    font-family: "Arial";
+    color: #000000
+}
+
+QPushButton#surePushButton:hover{
+    background-color: #D0D0D0
+}
+
+QPushButton#cvPushButton:hover{
+    background-color: #D0D0D0
+}
+
+QPushButton#canclePushButton:hover{
+    background-color: #D0D0D0
+}
+
+QComboBox#comboBox{
+    background-color: transparent;
+    border: 1 solid;
+    color: #000000;
+}
+
+QLineEdit{
+    background-color:transparent;
+    border-radius: 3px;
+    color: rbg(0,0,0);
+    border-width:1;
+    border-style:outset;
+    font-family: "Arial";
+    font-size: 17px;
+    font-weight: normal;
+    color: #000000
+}
+QPushButton#headChangePushButton{
+    border-image: url("images/pythonIcon.jpg");
+    border-width: 2px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Arial";
+    color: #000000;
+}
+

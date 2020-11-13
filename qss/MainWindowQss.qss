@@ -1,0 +1,74 @@
+QWidget#MainForm {
+    background: url("images/mainwindowbackground.jpg") no-repeat
+}
+#listWidget{
+    background-color: rgba(255, 255, 255, 20%);
+}
+
+#pushButton{
+    border-image: url("images/friends_add.png") transparent no-repeat;
+}
+#pushButton:hover{
+    border-image: url("images/friends_add-1.png") transparent no-repeat;
+}
+#pushButton:pressed{
+    border-image: url("images/friends_add-2.png") transparent no-repeat;
+}
+#pushButton_2{
+    border-image: url("images/game.png") transparent no-repeat;
+}
+#pushButton_2:hover{
+    border-image: url("images/game-1.png") transparent no-repeat;
+}
+#pushButton_2:pressed{
+    border-image: url("images/game-2.png") transparent no-repeat;
+}
+#pushButton_3{
+    border-image: url("images/uploadanddownload.png") transparent no-repeat;
+}
+#pushButton_3:hover{
+    border-image: url("images/uploadanddownload-1.png") transparent no-repeat;
+}
+#pushButton_3:pressed{
+    border-image: url("images/uploadanddownload-2.png") transparent no-repeat;
+}
+#pushButton_4{
+    border-image: url("images/member.png") transparent no-repeat;
+}
+#pushButton_4:hover{
+    border-image: url("images/member-1.png") transparent no-repeat;
+}
+#pushButton_4:pressed{
+    border-image: url("images/member-2.png") transparent no-repeat;
+}
+#pushButton_6{
+    border-image: url("images/close_circle.png") transparent no-repeat;
+}
+#pushButton_6:hover{
+    border-image: url("images/close_circle-1.png") transparent no-repeat;
+}
+#pushButton_6:pressed{
+    border-image: url("images/close_circle-2.png") transparent no-repeat;
+}
+#pushButton_5{
+    border-image: url("images/refresh.png") transparent no-repeat;
+}
+#pushButton_5:hover{
+    border-image: url("images/refresh-1.png") transparent no-repeat;
+}
+#pushButton_5:pressed{
+    border-image: url("images/refresh-2.png") transparent no-repeat;
+}
+#headPortait{
+    border-radius:10px;
+}
+#listWidget::Item{
+    width:260px;
+    height:60px;
+
+}
+#listWidget{
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: bold;
+}

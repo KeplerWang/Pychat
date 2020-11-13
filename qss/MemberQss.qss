@@ -1,0 +1,92 @@
+#MemberWindow{
+    border-image: url("images/mainwindowbackground.jpg");
+}
+#hlabel1{
+    border-image: url("images/wzc.jpg");
+}
+#hlabel2{
+    border-image: url("images/nsq.jpg");
+}
+#hlabel3{
+    border-image: url("images/nyp.jpg");
+}
+#hlabel4{
+    border-image: url("images/rl.jpg");
+}
+#hlabel5{
+    border-image: url("images/wrk.jpg");
+}
+#hlabel6{
+    border-image: url("images/xdk.jpg");
+}
+#hlabel7{
+    border-image: url("images/zk.jpg");
+}
+#nlabel1{
+    font-family: "Arial";
+    font-size: 25px;
+    font-weight: bold;
+}
+#nlabel2{
+    font-family: "Arial";
+    font-size: 25px;
+    font-weight: bold;
+}
+#nlabel3{
+    font-family: "Arial";
+    font-size: 25px;
+    font-weight: bold;
+}
+#nlabel4{
+    font-family: "Arial";
+    font-size: 25px;
+    font-weight: bold;
+}
+#nlabel5{
+    font-family: "Arial";
+    font-size: 25px;
+    font-weight: bold;
+}#nlabel6{
+    font-family: "Arial";
+    font-size: 25px;
+    font-weight: bold;
+}
+#nlabel7{
+    font-family: "Arial";
+    font-size: 25px;
+    font-weight: bold;
+}
+#nlabel1_2{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}
+#nlabel2_2{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}
+#nlabel3_2{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}
+#nlabel4_2{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}
+#nlabel5_2{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}#nlabel6_2{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}
+#nlabel7_2{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}

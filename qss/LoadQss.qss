@@ -1,0 +1,28 @@
+QWidget#loadWindow {
+    background: url("images/loadbackgr.png") no-repeat
+}
+QPushButton#uploadPushButton:hover{
+    background-color: #84d3fc
+}
+QPushButton#uploadPushButton{
+    background-color: #64caff;
+    border-radius: 8px;
+    border:1px solid transparent;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff
+}
+
+QPushButton#downloadPushButton:hover{
+    background-color: #84d3fc
+}
+QPushButton#downloadPushButton{
+    background-color: #64caff;
+    border-radius: 8px;
+    border:1px solid transparent;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff
+}
