@@ -2,9 +2,8 @@
 
 >Author：Husters from EIC
 >
->Introduction：本项目是华中科技大学电子信息与通信学院的Python公选课的小组大作业，项目的主要内容是利用了Python的socket、Pyqt5等库实现的一个即时聊天工具。
->
->创作不易，如果您对这个项目有什么提议的话，可以联系项目小组组长：KeplerWang
+>Introduction：This project comes from a Python course of EIC in HUST, which makes use of some Python packages to design a live chatting tools.
+>Creation is hard. Any proposal is welcome to make. Thanks to my co-workers.
 
 #### 功能需求
 
