@@ -3,6 +3,7 @@
 >Author：Husters from EIC
 >
 >Introduction：This project comes from a Python course of EIC in HUST, which makes use of some Python packages to design a live chatting tools.
+
 >Creation is hard. Any proposal is welcome to make. Thanks to my co-workers.
 
 #### 功能需求
