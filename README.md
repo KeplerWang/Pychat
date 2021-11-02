@@ -1,4 +1,4 @@
-## Pychat项目
+## Pychat
 
 >Author：Husters from EIC
 >
